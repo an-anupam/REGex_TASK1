@@ -1,2 +1,6 @@
 # REGex_TASK1
-it is TASK1 and include four assignments. 
+TASK 1 included with four assignments. 
+
+Name: Anupam Mohanty
+Refernce id: SIRSS2250
+college: College Of Engineering And Technology, Bhubaneswar
